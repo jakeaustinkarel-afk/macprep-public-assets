@@ -1,0 +1,338 @@
+{
+  "source_repository": "jakeaustinkarel-afk/macprep-web",
+  "source_ref": "main",
+  "source_tree": "c08d60e2b553d1b235ac84ae2520318badca0ce3",
+  "batch": "2026-08-10-to-16",
+  "files": [
+    {
+      "path": "marketing/social-posts/reels/2026-08-10-to-16/reel-2026-08-10-am.mp4",
+      "sha": "a7deddace64ce24e4dadd854647c9f445bdef273",
+      "size": 141581
+    },
+    {
+      "path": "marketing/social-posts/reels/2026-08-10-to-16/reel-2026-08-10-pm.mp4",
+      "sha": "bcc2b9c5eea5f408968cfd41f8588b7b288c3fbf",
+      "size": 139526
+    },
+    {
+      "path": "marketing/social-posts/reels/2026-08-10-to-16/reel-2026-08-11-am.mp4",
+      "sha": "9b1a5989673791be9ecd9f95cbb5085cbaf0beae",
+      "size": 135556
+    },
+    {
+      "path": "marketing/social-posts/reels/2026-08-10-to-16/reel-2026-08-11-pm.mp4",
+      "sha": "a6c9cf58843885d70395286ad15016eb71a3ad12",
+      "size": 135887
+    },
+    {
+      "path": "marketing/social-posts/reels/2026-08-10-to-16/reel-2026-08-12-am.mp4",
+      "sha": "281ff09d18a9bd4296abb4ff471aed7f778893ad",
+      "size": 133365
+    },
+    {
+      "path": "marketing/social-posts/reels/2026-08-10-to-16/reel-2026-08-12-pm.mp4",
+      "sha": "1991534aa0cb809994f022d6ee0bb393f4a7ce4e",
+      "size": 146539
+    },
+    {
+      "path": "marketing/social-posts/reels/2026-08-10-to-16/reel-2026-08-13-am.mp4",
+      "sha": "e04860de49699d60ac414d24c44f94e09c31492f",
+      "size": 128192
+    },
+    {
+      "path": "marketing/social-posts/reels/2026-08-10-to-16/reel-2026-08-13-pm.mp4",
+      "sha": "7d2e46b1e5b7c5bca5e56bf24ef2d18a4abb99cc",
+      "size": 137448
+    },
+    {
+      "path": "marketing/social-posts/reels/2026-08-10-to-16/reel-2026-08-14-am.mp4",
+      "sha": "9011f34aa181ec3fa018e601f156778ef73c78e8",
+      "size": 131299
+    },
+    {
+      "path": "marketing/social-posts/reels/2026-08-10-to-16/reel-2026-08-14-pm.mp4",
+      "sha": "3ce107ddb5c503eafb3450d7c73286f7991e9126",
+      "size": 132267
+    },
+    {
+      "path": "marketing/social-posts/reels/2026-08-10-to-16/reel-2026-08-15-am.mp4",
+      "sha": "40ff5b54b6274fd0023cadd2e3955805361f3f12",
+      "size": 136262
+    },
+    {
+      "path": "marketing/social-posts/reels/2026-08-10-to-16/reel-2026-08-15-pm.mp4",
+      "sha": "25a6431a07bcf40e5df90245fba30f0f4f3ba571",
+      "size": 137227
+    },
+    {
+      "path": "marketing/social-posts/reels/2026-08-10-to-16/reel-2026-08-16-am.mp4",
+      "sha": "d2774c99d9bbbb247ab75210f58b1e6fb54680e9",
+      "size": 132489
+    },
+    {
+      "path": "marketing/social-posts/reels/2026-08-10-to-16/reel-2026-08-16-pm.mp4",
+      "sha": "c182f8ad4db2bbff7cc7973889f41683474eddcf",
+      "size": 133483
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-15-am.mp4",
+      "sha": "8ba544082ea08c7e6702251bb20523fac288e401",
+      "size": 319663
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-15-pm.mp4",
+      "sha": "43c881298c74762596542d5b22fffc703717ecb3",
+      "size": 344731
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-16-am.mp4",
+      "sha": "a1a5b75d2f8c56446eed1031effd9dc697fee608",
+      "size": 349917
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-16-pm.mp4",
+      "sha": "76f449fd01ae359026ff776e9e4cd70e2ecae8f4",
+      "size": 316736
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-17-am.mp4",
+      "sha": "f32c3d8fcc7fdbf9900e6afa14adfa508335e001",
+      "size": 364954
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-17-pm.mp4",
+      "sha": "37ad7c9c89760b300f754117426f52aec73a428c",
+      "size": 301559
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-18-am.mp4",
+      "sha": "b76de4a2bbbbae14f9495fe2842e1d59c157f889",
+      "size": 343522
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-18-pm.mp4",
+      "sha": "f1e45dd53e1e39a0220223207f3af143ab80f1c6",
+      "size": 350808
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-19-am.mp4",
+      "sha": "98c3cb33169d86dc2204719ea46a5885ad7c61b1",
+      "size": 342279
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-19-pm.mp4",
+      "sha": "bcfe9dd5216a3f57f2cbf5bfa9f0b2e2c1cafdf4",
+      "size": 325854
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-20-am.mp4",
+      "sha": "15dfbfcd569d1cce931b5c378987cb275d576225",
+      "size": 340157
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-20-pm.mp4",
+      "sha": "15451c58d295db364218f220d0d8aa4c44d3f16e",
+      "size": 307975
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-21-am.mp4",
+      "sha": "6ae065e16b716a365ca27f56706df68aca71b9ff",
+      "size": 340324
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-21-pm.mp4",
+      "sha": "e5aab03490130a75a621a959984d8f91a67fc8ed",
+      "size": 341035
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-22-am.mp4",
+      "sha": "384fa4abe58220915820f44bd67d4c0075c8ac64",
+      "size": 350572
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-22-pm.mp4",
+      "sha": "4854c78be6651dbe9c6c31679c425ae21f6b5a5e",
+      "size": 330374
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-23-am.mp4",
+      "sha": "4b79f24871050d6761771428f51a351bc79d4573",
+      "size": 359879
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-23-pm.mp4",
+      "sha": "293816a22ebb9f795572f17f609e332a7730e530",
+      "size": 313763
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-24-am.mp4",
+      "sha": "fd56d2cf81bfbb70d9070e017ab726cba7733d0a",
+      "size": 345804
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-24-pm.mp4",
+      "sha": "a48f637b96f6953cd6d69b201c400c0ffb5f02d6",
+      "size": 312867
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-25-am.mp4",
+      "sha": "9f2879c3a5a35fa9bf6f1b0954be690e0a795dcf",
+      "size": 359456
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-25-pm.mp4",
+      "sha": "829fc5d293d398bcdd2f09d77b7b5c213e98a5a4",
+      "size": 310717
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-26-am.mp4",
+      "sha": "0d0b2f34532050bd477f69649b4c48e3789b9ec9",
+      "size": 339152
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-26-pm.mp4",
+      "sha": "4bd35bac5c56685123ec9229365528692cb13637",
+      "size": 350203
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-27-am.mp4",
+      "sha": "4e2c0ceacf956592cf1c26feb47ce8a411fc729e",
+      "size": 369597
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-27-pm.mp4",
+      "sha": "c0d8fea14fa907caadec731c0a3525a0eb2dec09",
+      "size": 303185
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-28-am.mp4",
+      "sha": "41d61d8f4e3cdb1c552417ba52dd20a378add22f",
+      "size": 369025
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-28-pm.mp4",
+      "sha": "17c67f5bb67aa15eb97a9e89d9a7d5e5e11f421d",
+      "size": 329375
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-29-am.mp4",
+      "sha": "101797e3d3f7964b162f8328e2131444026916f9",
+      "size": 365453
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-29-pm.mp4",
+      "sha": "f5fc0586b7c5942ba8d11dc3eab1a455494cf9de",
+      "size": 323015
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-30-am.mp4",
+      "sha": "c5bd02ef15b0ee7e495af0f199a65c2f2cf1618f",
+      "size": 359345
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-30-pm.mp4",
+      "sha": "b2c20d6e4a984a6f38f2be1228b2f0a854d12bc3",
+      "size": 321263
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-31-am.mp4",
+      "sha": "23973903b2a37048744c26a686eca60d76edd46e",
+      "size": 349475
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-07-31-pm.mp4",
+      "sha": "1058706f3a3e1ae203d90a393885228d64c5ffda",
+      "size": 346707
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-08-01-am.mp4",
+      "sha": "bb02f0ebbf2cc4ee42a5c44dd0845e3ee41a81da",
+      "size": 355281
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-08-01-pm.mp4",
+      "sha": "9643bff89232713f4db3e3e4d08dea1399d16433",
+      "size": 310684
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-08-02-am.mp4",
+      "sha": "8272f56df8e518fb32058b027b14ca6d085d7b01",
+      "size": 351019
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-08-02-pm.mp4",
+      "sha": "5d8571dfa09e9993b242f14ab72aab128eb06588",
+      "size": 320982
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-08-03-am.mp4",
+      "sha": "7cc1926a3ff99fdef1f7c7fc7f4b61f1208dc2ca",
+      "size": 347664
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-08-03-pm.mp4",
+      "sha": "d524583308935acbde1a0525537677613f35a78a",
+      "size": 337072
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-08-04-am.mp4",
+      "sha": "194bf67f6a461541c5e8badbbad50f221be00c26",
+      "size": 352645
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-08-04-pm.mp4",
+      "sha": "0f4ec7083db959411fdac50519667ca681da5925",
+      "size": 329117
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-08-05-am.mp4",
+      "sha": "fda36b449f09ba1a134de211fa5798e0f9afbd22",
+      "size": 336559
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-08-05-pm.mp4",
+      "sha": "040153f5f43fde93d0cb70c82fc225ca3b9133ec",
+      "size": 296534
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-08-06-am.mp4",
+      "sha": "8731c8adca91946d94615ca76eb4535b6cc5a835",
+      "size": 379320
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-08-06-pm.mp4",
+      "sha": "09428ca4314e843a1d62c8975e7b2cb9ddee7ea0",
+      "size": 326840
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-08-07-am.mp4",
+      "sha": "980933223113499dfe0b38bea54747a928893bdc",
+      "size": 347460
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-08-07-pm.mp4",
+      "sha": "2c7a6d9118ee323e4a84f68d2edb539bf125b78b",
+      "size": 331302
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-08-08-am.mp4",
+      "sha": "de6c37f93650bd56534f90d253aba94c78b74105",
+      "size": 367201
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-08-08-pm.mp4",
+      "sha": "33a81236c1dbfdd7bbfb04e98007c68e3e972c24",
+      "size": 315937
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-08-09-am.mp4",
+      "sha": "4d9dab2d695de08723b4f87355b7aebe581e9387",
+      "size": 358280
+    },
+    {
+      "path": "marketing/social-posts/reels/reel-2026-08-09-pm.mp4",
+      "sha": "f7a6b7de8e57f74f978c365afd593ad5fc061716",
+      "size": 334235
+    }
+  ]
+}
