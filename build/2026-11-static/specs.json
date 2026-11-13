@@ -1,0 +1,91 @@
+[
+ {
+  "slug": "co2-embolism",
+  "title": "Why C",
+  "fs": 32,
+  "gap": 18,
+  "dx": {
+   "label": "THE DIAGNOSIS",
+   "name": "Venous CO2 (gas) embolism",
+   "text": "Insufflated CO2 entered a vein. The gas is now in the right heart, blocking blood flow to the lungs."
+  },
+  "items": [
+   "**Stop insufflation, release the pneumoperitoneum.** No more gas enters the vein.",
+   "**100% oxygen, hyperventilate.** Treats the hypoxemia and clears CO2 faster.",
+   "**Head-down, left side down (Durant).** Keeps gas away from the right ventricular outflow tract.",
+   "**Aspirate a central line if one is already in.** It pulls gas out of the right heart. Support the circulation. CPR if arrest.",
+   "! **Not a vagal reflex:** that causes bradycardia. The sudden EtCO2 fall is dead space, so don't cut ventilation."
+  ]
+ },
+ {
+  "slug": "capnography",
+  "title": "Read the shape",
+  "fs": 33,
+  "gap": 20,
+  "dx": {
+   "label": "THE DIAGNOSIS",
+   "name": "Rebreathing",
+   "text": "Inspired gas should contain no CO2. A baseline that stays above zero means exhaled CO2 is being breathed back in."
+  },
+  "items": [
+   "**Raised inspiratory baseline:** rebreathing. Check absorbent, valves, fresh gas flow, circuit.",
+   "**Slow upstroke, sloped plateau:** expiratory obstruction.",
+   "**Notch in the plateau:** spontaneous effort (curare cleft).",
+   "**Sudden EtCO2 drop, same ventilation:** think perfusion, like embolism or low output.",
+   "! Low perfusion and high CO2 production change the waveform's height. Neither puts CO2 in inspired gas."
+  ]
+ },
+ {
+  "slug": "peds-anaphylaxis",
+  "title": "Why B",
+  "fs": 33,
+  "gap": 20,
+  "dx": {
+   "label": "THE DIAGNOSIS",
+   "name": "Anaphylaxis",
+   "text": "Allergen exposure, then hives, lip swelling, wheeze and hypotension within minutes."
+  },
+  "items": [
+   "**Epinephrine first.** It reverses the vasodilation, airway swelling and bronchospasm. Delay is linked to death.",
+   "**0.01 mg/kg** of 1 mg/mL epinephrine: **0.18\u00a0mg (0.18\u00a0mL)**. Max single dose 0.5 mg. Repeat every 5–15 min.",
+   "**IM, anterolateral thigh.** Faster, more reliable than subcutaneous or deltoid. Don't wait for an IV.",
+   "**Then** IV access, **20 mL/kg** crystalloid, albuterol for wheeze. Postpone the elective case.",
+   "! **D is a 10-fold overdose.** Antihistamines only help the hives. They are never first."
+  ]
+ },
+ {
+  "slug": "pyloric-stenosis",
+  "title": "Why D",
+  "fs": 35,
+  "gap": 24,
+  "dx": {
+   "label": "THE PROBLEM",
+   "name": "A full stomach",
+   "text": "His labs are corrected, so he is ready for surgery. But the pylorus is blocked: secretions and barium stay in the stomach, even with an NG tube."
+  },
+  "items": [
+   "A **large multi-orifice orogastric tube** right before induction recovered an average of almost **5 mL/kg**.",
+   "Those volumes **weren't reduced** by NG suction, fasting time or a prior barium study.",
+   "Then secure the airway with **RSI or modified RSI**. Awake intubation is no longer favored.",
+   "! Prokinetics can't beat a fixed obstruction. H2 blockers don't remove fluid already there."
+  ]
+ },
+ {
+  "slug": "naloxone",
+  "title": "Why D",
+  "fs": 35,
+  "gap": 24,
+  "dx": {
+   "label": "THE DIAGNOSIS",
+   "name": "Renarcotization",
+   "text": "The naloxone wore off before the methadone did, so the respiratory depression came back."
+  },
+  "items": [
+   "Naloxone's half-life is roughly **30–80 minutes**. Methadone's is **very long**.",
+   "**Infusion, not repeat boluses.** A steady level prevents another hypoxic episode between doses.",
+   "Infuse about **two-thirds of the effective dose per hour**: 120 mcg → about 80 mcg/h.",
+   "Titrate to breathing and sedation, in a **continuously monitored** setting. Not the floor.",
+   "! Big fixed doses strip analgesia and can trigger severe pain and a catecholamine surge."
+  ]
+ }
+]
