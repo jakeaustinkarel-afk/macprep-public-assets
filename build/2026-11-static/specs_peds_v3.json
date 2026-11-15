@@ -1,0 +1,20 @@
+[
+ {
+  "slug": "peds-anaphylaxis",
+  "title": "Why B",
+  "fs": 33,
+  "gap": 20,
+  "dx": {
+   "label": "THE DIAGNOSIS",
+   "name": "Anaphylaxis",
+   "text": "Allergen exposure, then hives, lip swelling, wheeze and hypotension within minutes."
+  },
+  "items": [
+   "**Epinephrine first.** It reverses the vasodilation, airway swelling and bronchospasm. Delay is linked to death.",
+   "**0.01 mg/kg** of 1 mg/mL epinephrine: **0.18 mg (0.18 mL)**. Child max 0.3 mg per dose. Repeat every 5–15 min.",
+   "**IM, anterolateral thigh.** Faster, more reliable than subcutaneous or deltoid. Don't wait for an IV.",
+   "**Then** IV access, **10 mL/kg** crystalloid (repeat as needed), albuterol for wheeze. Postpone the case.",
+   "! **D is a 10-fold overdose.** Antihistamines only help the hives. They are never first."
+  ]
+ }
+]
