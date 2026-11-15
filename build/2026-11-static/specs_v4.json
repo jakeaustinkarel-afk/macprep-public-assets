@@ -1,0 +1,250 @@
+[
+ {
+  "out": "capnography-05v4",
+  "old": "capnography-05v2",
+  "type": "case5",
+  "share": false,
+  "title": "Read the shape",
+  "fs": 31,
+  "gap": 14,
+  "dx": {
+   "label": "THE DIAGNOSIS",
+   "name": "Rebreathing",
+   "text": "Inspired gas should contain no CO2. An inspiratory baseline above zero means exhaled CO2 is being breathed back in."
+  },
+  "items": [
+   "**Raised inspiratory baseline:** rebreathing. Check for exhausted CO2 absorbent and a stuck or incompetent unidirectional valve.",
+   "**Slow upstroke, sloped plateau:** expiratory obstruction, such as bronchospasm or a kinked tube.",
+   "**Notch in the plateau:** spontaneous breaths as neuromuscular blockade wears off (curare cleft).",
+   "**Sudden EtCO2 drop with unchanged ventilation:** less blood flow to the lungs, such as an embolism or a sharp fall in cardiac output.",
+   "! Low cardiac output and high CO2 production change the waveform's height. Neither puts CO2 in inspired gas."
+  ]
+ },
+ {
+  "out": "capnography-06v4",
+  "old": "capnography-06",
+  "type": "sources",
+  "title": "Where this comes from",
+  "top": 262,
+  "groups": [
+   {
+    "label": "RESEARCH AND REFERENCES",
+    "items": [
+     "Siobal MS. Monitoring exhaled carbon dioxide. Respiratory Care, 2016.",
+     "Kodali BS. Capnography.com: baseline elevation and rebreathing.",
+     "Yartsev A. Deranged Physiology: capnometry waveform interpretation."
+    ]
+   }
+  ],
+  "further": "Morgan & Mikhail's Clinical Anesthesiology, 7th ed. Ch. 6, Noncardiovascular Monitoring, pp. 116–117."
+ },
+ {
+  "out": "first-offer-02v4",
+  "old": "first-offer-02",
+  "type": "list",
+  "share": false,
+  "title": "Pay and structure",
+  "fs": 34,
+  "gap": 26,
+  "items": [
+   "**W-2 or 1099?** As a 1099 contractor you usually pay both halves of Social Security and Medicare tax, and you get no employer health insurance, retirement match or paid leave.",
+   "**Call:** how often, in-house or from home, and is it paid separately?",
+   "**Late stays:** how are hours past your scheduled shift paid?"
+  ]
+ },
+ {
+  "out": "first-offer-06v4",
+  "old": "first-offer-06",
+  "type": "sources",
+  "title": "Save this for offer season.",
+  "top": 290,
+  "groups": [
+   {
+    "label": "WHERE THIS COMES FROM",
+    "items": [
+     "AMA. 5 employment contract terms that can surprise physicians, Sept 2026.",
+     "AMA. 6 questions to ask before signing a physician employment contract, Feb 2025.",
+     "IRS. Topic 762, Independent contractor vs. employee, Oct 2026.",
+     "IRS. Self-employment tax (Social Security and Medicare taxes), Oct 2026."
+    ]
+   }
+  ],
+  "note": "The AMA guides are written for physicians. The same contract terms appear in CAA offers."
+ },
+ {
+  "out": "peds-anaphylaxis-06v4",
+  "old": "peds-anaphylaxis-06",
+  "type": "sources",
+  "title": "Where this comes from",
+  "top": 262,
+  "groups": [
+   {
+    "label": "GUIDELINES AND CONSENSUS",
+    "items": [
+     "Cardona V et al. World Allergy Organization Anaphylaxis Guidance 2020. World Allergy Organ J, 2020.",
+     "Shaker MS et al. Anaphylaxis: a 2020 practice parameter update. J Allergy Clin Immunol, 2020.",
+     "Sicherer SH, Simons FER. AAP clinical report: Epinephrine for first-aid management of anaphylaxis. Pediatrics, 2017.",
+     "Garvey LH et al. Suspected perioperative allergic reactions: international consensus. Br J Anaesth, 2019."
+    ]
+   }
+  ],
+  "further": "Morgan & Mikhail's Clinical Anesthesiology, 7th ed. Ch. 54, Anesthetic Complications, pp. 1270–1272."
+ },
+ {
+  "out": "missed-questions-03v4",
+  "old": "missed-questions-03",
+  "type": "text",
+  "share": false,
+  "title": "Why the retry matters",
+  "top": 262,
+  "paras": [
+   "In a randomized trial of **40 pediatric and emergency medicine residents**, repeated testing beat repeated studying of the same material **six months later**: **39% vs 26%** on the final test.",
+   "Spacing the retry out over days adds to the effect."
+  ]
+ },
+ {
+  "out": "missed-questions-05v4",
+  "old": "missed-questions-05",
+  "type": "sources",
+  "title": "Where this comes from",
+  "top": 262,
+  "groups": [
+   {
+    "label": "RESEARCH",
+    "items": [
+     "Larsen DP, Butler AC, Roediger HL. Repeated testing improves long-term retention relative to repeated study. Med Educ, 2009.",
+     "Roediger HL, Karpicke JD. Test-enhanced learning. Psychol Sci, 2006.",
+     "Cepeda NJ et al. Distributed practice in verbal recall tasks: a review and quantitative synthesis. Psychol Bull, 2006.",
+     "Dunlosky J et al. Improving students' learning with effective learning techniques. Psychol Sci Public Interest, 2013."
+    ]
+   },
+   {
+    "label": "MACPREP",
+    "items": [
+     "MACPrep Updates: Further Reading on every question."
+    ]
+   }
+  ]
+ },
+ {
+  "out": "pyloric-stenosis-05v4",
+  "old": "pyloric-stenosis-05v2",
+  "type": "case5",
+  "share": false,
+  "title": "Why D",
+  "fs": 33,
+  "gap": 20,
+  "dx": {
+   "label": "THE PROBLEM",
+   "name": "A full stomach",
+   "text": "His labs are corrected, so he is ready for surgery. But the pylorus is blocked: secretions and barium stay in the stomach, even with an NG tube."
+  },
+  "items": [
+   "A **14 Fr multi-orifice orogastric tube** passed just before induction recovered an average of **4.8 mL/kg**, about 96% of the fluid in the stomach.",
+   "Those volumes **weren't reduced** by NG suction, fasting time or a prior barium study.",
+   "Then intubate after **RSI or modified RSI**. Awake intubation took longer and failed more often on the first attempt.",
+   "! Metoclopramide can't empty a stomach through a blocked pylorus. Famotidine doesn't remove fluid already there."
+  ]
+ },
+ {
+  "out": "pyloric-stenosis-06v4",
+  "old": "pyloric-stenosis-06",
+  "type": "sources",
+  "title": "Where this comes from",
+  "top": 262,
+  "sf": 25,
+  "groups": [
+   {
+    "label": "RESEARCH AND REVIEWS",
+    "items": [
+     "Cook-Sather SD et al. Gastric fluid volume in infants for pyloromyotomy. Can J Anaesth, 1997.",
+     "Cook-Sather SD et al. Awake versus paralyzed tracheal intubation for infants with pyloric stenosis. Anesth Analg, 1998.",
+     "Park RS et al. Risk of hypoxemia by induction technique among infants undergoing pyloromyotomy. Anesth Analg, 2021.",
+     "Kamata M et al. Perioperative care of infants with pyloric stenosis. Paediatr Anaesth, 2015.",
+     "Society for Pediatric Anesthesia. Case guide: laparoscopic pyloromyotomy, 2022."
+    ]
+   }
+  ],
+  "further": "Morgan & Mikhail's Clinical Anesthesiology, 7th ed. Ch. 42, Pediatric Anesthesia, p. 928."
+ },
+ {
+  "out": "holiday-plan-03v4",
+  "old": "holiday-plan-03",
+  "type": "sources",
+  "title": "Small and consistent beats heroic and skipped.",
+  "top": 372,
+  "groups": [
+   {
+    "label": "WHERE THIS COMES FROM",
+    "items": [
+     "Cepeda NJ et al. Distributed practice: a review and quantitative synthesis. Psychol Bull, 2006.",
+     "Dunlosky J et al. Improving students' learning with effective learning techniques. Psychol Sci Public Interest, 2013.",
+     "Roediger HL, Karpicke JD. Test-enhanced learning. Psychol Sci, 2006.",
+     "Ward AF et al. Brain drain: the mere presence of one's own smartphone reduces available cognitive capacity. J Assoc Consum Res, 2017."
+    ]
+   }
+  ]
+ },
+ {
+  "out": "domains-04v4",
+  "old": "domains-04",
+  "type": "sources",
+  "title": "Where this comes from",
+  "top": 262,
+  "groups": [
+   {
+    "label": "PRIMARY SOURCE",
+    "items": [
+     "NCCAA. Certification Examination Handbook, 2026 (rev. Nov 7, 2026). Content outline, Rev. 2021."
+    ]
+   },
+   {
+    "label": "CROSS-CHECKED AGAINST",
+    "items": [
+     "AnesthesiaJobs.com. The NCCAA certification exam: format, cost and pass rates, Oct 2026."
+    ]
+   }
+  ],
+  "note": "The percentages are approximate. NCCAA built this outline from its 2021 job analysis."
+ },
+ {
+  "out": "naloxone-05v4",
+  "old": "naloxone-05v2",
+  "type": "case5",
+  "share": false,
+  "title": "Why D",
+  "fs": 34,
+  "gap": 22,
+  "dx": {
+   "label": "THE DIAGNOSIS",
+   "name": "Renarcotization",
+   "text": "The naloxone wore off before the methadone did, so the respiratory depression came back."
+  },
+  "items": [
+   "Naloxone's serum half-life in adults is **30–81 minutes**. Methadone's terminal half-life is **8–59 hours**.",
+   "**Infusion, not repeat boluses.** A steady level prevents another hypoxic episode between doses.",
+   "Infuse about **two-thirds of the effective bolus dose per hour**: 120 mcg → about 80 mcg/h.",
+   "Titrate to breathing and sedation, in a **continuously monitored** setting. Not the floor.",
+   "! Big fixed doses strip analgesia and can trigger severe pain and a catecholamine surge."
+  ]
+ },
+ {
+  "out": "naloxone-06v4",
+  "old": "naloxone-06",
+  "type": "sources",
+  "title": "Where this comes from",
+  "top": 262,
+  "groups": [
+   {
+    "label": "RESEARCH AND DRUG LABELS",
+    "items": [
+     "Goldfrank L et al. A dosing nomogram for continuous infusion intravenous naloxone. Ann Emerg Med, 1986.",
+     "Boyer EW. Management of opioid analgesic overdose. N Engl J Med, 2012.",
+     "Naloxone hydrochloride injection, FDA prescribing information (Pfizer).",
+     "Methadone hydrochloride injection, FDA prescribing information (DailyMed)."
+    ]
+   }
+  ],
+  "further": "Morgan & Mikhail's Clinical Anesthesiology, 7th ed. Ch. 17, Adjuncts to Anesthesia, pp. 289–290."
+ }
+]
