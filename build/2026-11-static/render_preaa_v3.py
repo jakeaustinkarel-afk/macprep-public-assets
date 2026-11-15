@@ -56,8 +56,7 @@ def main(date, outdir):
         '**Letters.** Three is standard. Check who each program wants them from.',
     ], fs=36, gap=30), None, 'pre-aa-02'))
     slides.append(('03', list_slide(date, 'The experience', [
-        '**Shadow in anesthesia.** Most programs ask for at least 8 hours. Case Western recommends 16 or more. More is better.',
-        'Shadowing can be with a CAA, an anesthesiologist or a CRNA. Case Western prefers a CAA.',
+        '**Shadow in anesthesia.** Most programs ask for at least 8 hours with a CAA, an anesthesiologist or a CRNA. Case Western recommends 16 or more and prefers a CAA. More is better.',
         '**Patient care experience is vital.** Hands-on healthcare work, paid or volunteer, makes you a stronger applicant and a better anesthetist.',
     ], fs=36, gap=30), None, 'pre-aa-03'))
     slides.append(('04', list_slide(date, 'The coursework', [
