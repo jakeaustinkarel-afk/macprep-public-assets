@@ -1,0 +1,27 @@
+[
+ {"out":"first-offer-02v5","old":"first-offer-03","type":"list","title":"Pay","fs":34,"gap":28,"items":[
+  "**W-2 or 1099?** As a 1099 contractor you usually pay both halves of Social Security and Medicare tax, and you usually get no employer health insurance, retirement match or paid leave.",
+  "**Raises:** is there a set schedule, and what is it based on?",
+  "**Extra shifts and late stays:** what does an extra shift pay, and how are hours past your scheduled shift paid?"]},
+ {"out":"first-offer-03v5","old":"first-offer-03","type":"list","title":"Schedule and call","fs":34,"gap":28,"items":[
+  "**Shifts:** how long is a shift, and how many make full-time?",
+  "**Weekends and holidays:** how are they split across the group?",
+  "**Call structure:** a week at a time, or a day here and there? Weekend days, nights or both?",
+  "**Call logistics:** in-house or from home, and is it paid separately?"]},
+ {"out":"first-offer-04v5","old":"first-offer-03","type":"list","title":"The job itself","fs":34,"gap":28,"items":[
+  "**Scope:** will you do blocks, art lines and central lines? Cardiac, peds and OB cases?",
+  "**Sites:** can they send you to other hospitals in the system?",
+  "**Your employer:** a hospital, a private group or a national company? What happens to your contract if the group is sold?"]},
+ {"out":"first-offer-05v5","old":"first-offer-03","type":"list","title":"Benefits people forget","fs":33,"gap":24,"items":[
+  "**CME allowance** and days off to use it.",
+  "**PTO and holidays:** accrued or granted, and when can you use them?",
+  "**Retirement match** and when it vests.",
+  "**Disability insurance:** is it own-occupation coverage?",
+  "**License and dues:** does the employer pay for your state license, certification renewal and AAAA dues?",
+  "**Malpractice:** claims-made or occurrence? Who pays for tail coverage?"]},
+ {"out":"first-offer-06v5","old":"first-offer-03","type":"list","title":"The fine print","fs":34,"gap":28,"items":[
+  "**Non-compete:** how far, for how long, and measured from which site? In a big system it can be the farthest one.",
+  "**Termination:** is the notice period the same for both sides? Can they let you go without cause?",
+  "**Sign-on bonus or forgivable loan:** if you leave early, is repayment prorated or the full amount?",
+  "**Auto-renewal:** does the contract renew on its own, and how short is the window to opt out?"]}
+]
