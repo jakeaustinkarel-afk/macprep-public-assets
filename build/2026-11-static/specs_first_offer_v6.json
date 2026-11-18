@@ -1,0 +1,91 @@
+[
+ {
+  "out": "first-offer-02v6",
+  "old": "first-offer-03",
+  "type": "list",
+  "title": "Pay",
+  "fs": 34,
+  "gap": 28,
+  "items": [
+   "**W-2 or 1099?** As a 1099 contractor you usually pay both halves of Social Security and Medicare tax and get no employer health insurance, retirement match or paid leave.",
+   "**Raises:** is there a set annual raise, or is it negotiated each year?",
+   "**Extra shifts and late stays:** what does an extra shift pay? Are hours past your scheduled shift paid hourly, as comp time or not at all?"
+  ]
+ },
+ {
+  "out": "first-offer-03v6",
+  "old": "first-offer-03",
+  "type": "list",
+  "title": "Schedule and call",
+  "fs": 34,
+  "gap": 28,
+  "items": [
+   "**Shifts:** 8s, 10s or 12s? How many a week count as full-time?",
+   "**Weekends and holidays:** how many are you expected to work each year?",
+   "**Call structure:** a week at a time, or a day here and there? Weekend days, nights or both?",
+   "**Call logistics:** in-house or from home? If from home, how fast do you need to get in? Is call paid separately?"
+  ]
+ },
+ {
+  "out": "first-offer-04v6",
+  "old": "first-offer-03",
+  "type": "list",
+  "title": "The job itself",
+  "fs": 34,
+  "gap": 28,
+  "items": [
+   "**Scope:** will you do blocks, art lines and central lines? Cardiac, peds and OB cases?",
+   "**Sites:** can they send you to other hospitals or surgery centers, and how far away?",
+   "**Your employer:** a hospital, a private group or a national staffing company? What happens to your contract if your employer is sold or merges?"
+  ]
+ },
+ {
+  "out": "first-offer-05v6",
+  "old": "first-offer-03",
+  "type": "list",
+  "title": "Benefits people forget",
+  "fs": 33,
+  "gap": 24,
+  "items": [
+   "**CME:** how much money, and how many days off to use it?",
+   "**PTO and holidays:** accrued or granted, and when can you use them?",
+   "**Retirement:** how much is the match, and when does it vest?",
+   "**Disability insurance:** is it own-occupation, meaning it pays if you can no longer work as a CAA?",
+   "**License and dues:** does the employer pay for your state license, certification renewal and AAAA dues?",
+   "**Malpractice:** claims-made or occurrence? Who pays for tail coverage?"
+  ]
+ },
+ {
+  "out": "first-offer-06v6",
+  "old": "first-offer-03",
+  "type": "list",
+  "title": "The fine print",
+  "fs": 34,
+  "gap": 28,
+  "items": [
+   "**Non-compete:** how many miles, for how long, and measured from which site? Some systems measure from their farthest location.",
+   "**Termination:** is the notice period the same for both sides? Can they let you go without cause?",
+   "**Sign-on bonus or forgivable loan:** if you leave early, is repayment prorated or the full amount?",
+   "**Auto-renewal:** does the contract renew on its own, and how short is the window to opt out?"
+  ]
+ },
+ {
+  "out": "first-offer-08v6",
+  "old": "first-offer-06",
+  "type": "sources",
+  "title": "Save this for offer season.",
+  "top": 290,
+  "groups": [
+   {
+    "label": "WHERE THIS COMES FROM",
+    "items": [
+     "AMA. 5 employment contract terms that can surprise physicians, Sept 2026.",
+     "AMA. 6 questions to ask before signing a physician employment contract, Feb 2025.",
+     "IRS. Topic 762, Independent contractor vs. employee, Oct 2026.",
+     "IRS. Self-employment tax (Social Security and Medicare taxes), Oct 2026."
+    ]
+   }
+  ],
+  "note": "The AMA guides are written for physicians, but the same contract terms show up in CAA offers. The other questions are general career advice from a practicing CAA."
+ }
+]
