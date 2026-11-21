@@ -1,0 +1,38 @@
+[
+ {
+  "out": "naloxone-06v5",
+  "old": "naloxone-06",
+  "type": "sources",
+  "title": "Where this comes from",
+  "top": 262,
+  "groups": [
+   {
+    "label": "RESEARCH AND DRUG LABELS",
+    "items": [
+     "Goldfrank L et al. A dosing nomogram for continuous infusion intravenous naloxone. Ann Emerg Med, 1986.",
+     "Boyer EW. Management of opioid analgesic overdose. N Engl J Med, 2012.",
+     "Naloxone hydrochloride injection, FDA prescribing information (Pfizer).",
+     "Methadone hydrochloride injection, FDA prescribing information (DailyMed)."
+    ]
+   }
+  ],
+  "further": "Morgan & Mikhail's Clinical Anesthesiology, 7th ed. Ch. 17, Adjuncts to Anesthesia, p. 289."
+ },
+ {
+  "out": "holiday-plan-03v5",
+  "old": "holiday-plan-03",
+  "type": "sources",
+  "title": "Small and consistent beats heroic and skipped.",
+  "top": 372,
+  "groups": [
+   {
+    "label": "WHERE THIS COMES FROM",
+    "items": [
+     "Cepeda NJ et al. Distributed practice: a review and quantitative synthesis. Psychol Bull, 2006.",
+     "Dunlosky J et al. Improving students' learning with effective learning techniques. Psychol Sci Public Interest, 2013.",
+     "Roediger HL, Karpicke JD. Test-enhanced learning. Psychol Sci, 2006."
+    ]
+   }
+  ]
+ }
+]
